@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5
   },
   "right": {
     "id": "1485b25bcc1176b9",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,8 +188,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b01d303f28020b4b",
+  "active": "321436c1b86c1d2f",
   "lastOpenFiles": [
+    "Untitled",
     "README.md"
   ]
 }

@@ -30021,4 +30021,9 @@ body:not(.theme-light.background-settings-workplace-background-image) .workspace
   padding-inline-end: var(--bases-header-padding-end, 8px);
 }
 
+.plugin-sync {
+  display: none;
+}
+
+.
 /**** Bases end ****/

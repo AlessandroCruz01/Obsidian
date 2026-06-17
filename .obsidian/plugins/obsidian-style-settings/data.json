@@ -6,5 +6,9 @@
   "blue-topaz-theme@@layout-style-options": "bt-bubble-layout",
   "blue-topaz-theme@@bt-bubble-not-file-tree": true,
   "blue-topaz-theme@@bt-bubble-buttons": true,
-  "Blue-Topaz-Codebox-Highlight@@muted-code-activeline-bg": false
+  "Blue-Topaz-Codebox-Highlight@@muted-code-activeline-bg": false,
+  "blue-topaz-theme@@bt-status-on": false,
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@bt-bubble-layout-hide-borders": true,
+  "blue-topaz-theme@@bt-bubble-layout-padding": "8px"
 }

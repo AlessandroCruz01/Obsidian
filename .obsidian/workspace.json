@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ec8a18718bdd2280",
+        "id": "696ee70a17099b28",
         "type": "tabs",
         "children": [
           {
-            "id": "cee5f78b2655a0eb",
+            "id": "0dfebd1bebc4d3c0",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/appearance.json",
-                "bFile": ".obsidian/appearance.json",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: appearance.json  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -232,7 +232,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "cee5f78b2655a0eb",
+  "active": "0dfebd1bebc4d3c0",
   "lastOpenFiles": [
     "Salesforce News/Cert 2027.md",
     "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",

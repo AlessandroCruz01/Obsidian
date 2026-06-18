@@ -11,10 +11,15 @@
             "id": "e9e551a3c918931a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: README  (Index)"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Projeto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,9 +193,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "321436c1b86c1d2f",
+  "active": "e9e551a3c918931a",
   "lastOpenFiles": [
-    "Untitled",
-    "README.md"
+    "Onboarding.md",
+    "Salesforce - Release 3-20260616T174135Z-3-001.zip",
+    "Salesforce - Release 2-20260616T174136Z-3-001 1.zip",
+    "Salesforce - Release 1-20260616T174136Z-3-001 3.zip",
+    "Salesforce - Release 2-20260616T174136Z-3-001.zip",
+    "Salesforce - Release 1-20260616T174136Z-3-001 2.zip",
+    "Salesforce - Release 1-20260616T174136Z-3-001 1.zip",
+    "Salesforce - Release 1-20260616T174136Z-3-001.zip",
+    "Natura"
   ]
 }

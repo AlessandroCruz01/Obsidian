@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89da485822694aae",
+        "id": "3b36a89be23a952b",
         "type": "tabs",
         "children": [
           {
-            "id": "23fc00b6c698e3c5",
+            "id": "edd11ca053cd2d36",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -228,10 +228,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "23fc00b6c698e3c5",
+  "active": "edd11ca053cd2d36",
   "lastOpenFiles": [
-    "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
     "Salesforce News/Cert 2027.md",
+    "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
     "Salesforce News",
     "Natura/Onboarding.md",
     "2026-06-18.md",

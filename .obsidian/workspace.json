@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "631a2bebcd449762",
+        "id": "89da485822694aae",
         "type": "tabs",
         "children": [
           {
-            "id": "e9e551a3c918931a",
+            "id": "23fc00b6c698e3c5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: README  (Index)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -76,19 +71,21 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 236.5
-  },
-  "right": {
-    "id": "1485b25bcc1176b9",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "7c453b22d08e5832",
+        "id": "55bf5b49af323af5",
         "type": "tabs",
         "children": [
+          {
+            "id": "b01d303f28020b4b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
           {
             "id": "84c5a1bdfa14dc56",
             "type": "leaf",
@@ -119,7 +116,38 @@
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d9e35cbf47d3d9be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e7bf8e6058210e9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "right": {
+    "id": "1485b25bcc1176b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c453b22d08e5832",
+        "type": "tabs",
+        "dimension": 66.66666666666667,
+        "children": [
           {
             "id": "0fd6c6228aa2f7a8",
             "type": "leaf",
@@ -162,19 +190,26 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "b01d303f28020b4b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
+      },
+      {
+        "id": "e21768d44022484f",
+        "type": "tabs",
+        "dimension": 33.333333333333336,
+        "children": [
+          {
+            "id": "50060dc7db6f18b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,16 +228,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e9e551a3c918931a",
+  "active": "23fc00b6c698e3c5",
   "lastOpenFiles": [
-    "Onboarding.md",
+    "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
+    "Salesforce News/Cert 2027.md",
+    "Salesforce News",
+    "Natura/Onboarding.md",
+    "2026-06-18.md",
+    "Pessoal/Notes.md",
+    "Pessoal/Salesforce Certified B2B",
+    "Pessoal",
     "Salesforce - Release 3-20260616T174135Z-3-001.zip",
     "Salesforce - Release 2-20260616T174136Z-3-001 1.zip",
     "Salesforce - Release 1-20260616T174136Z-3-001 3.zip",
     "Salesforce - Release 2-20260616T174136Z-3-001.zip",
     "Salesforce - Release 1-20260616T174136Z-3-001 2.zip",
     "Salesforce - Release 1-20260616T174136Z-3-001 1.zip",
-    "Salesforce - Release 1-20260616T174136Z-3-001.zip",
-    "Natura"
+    "Salesforce - Release 1-20260616T174136Z-3-001.zip"
   ]
 }

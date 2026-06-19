@@ -1,4 +1,4 @@
-#Projeto Gaia
+Projeto Gaia
 
 - Release 1 - LWC de lojas próprias ( Importador de produtos )
 - Release 2 - StoreFront

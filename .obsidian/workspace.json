@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
+                "file": "Natura/Onboarding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B2B Commerce for Developers"
+              "title": "Onboarding"
             }
           }
         ]
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d9e35cbf47d3d9be",
@@ -169,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for B2B Commerce for Developers"
+              "title": "Backlinks"
             }
           },
           {
@@ -188,12 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from B2B Commerce for Developers"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -219,13 +218,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of B2B Commerce for Developers"
+              "title": "Outline"
             }
           }
         ],
@@ -250,20 +248,20 @@
       "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "21259b7128328205",
+  "active": "5e7bf8e6058210e9",
   "lastOpenFiles": [
-    "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
     "Natura/Onboarding.md",
+    "Salesforce News/Cert 2027.md",
+    "Pessoal/Coders/Study Plan.md",
+    "Pessoal/Salesforce Certified B2B/B2B Commerce for Developers.md",
     "Pessoal/Files/Pasted image 20260618205855.png",
     "Pessoal/Files/Pasted image 20260618205805.png",
     "Pessoal/Files/Pasted image 20260618203724.png",
-    "Pessoal/Coders/Study Plan.md",
     "Pessoal/Files",
     "PLANO DE AÇÃO EM INGLÊS.xlsx",
     "Pessoal/Coders",
     "Pessoal/Files/Pasted image 20260618205825.png",
     "Daily.md",
-    "Salesforce News/Cert 2027.md",
     "Salesforce News",
     "2026-06-18.md",
     "Pessoal/Notes.md",
